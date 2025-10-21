@@ -1,0 +1,4 @@
+deb [trusted=yes] http://192.168.43.56/termux-packages stable main
+#deb [trusted=yes] http://192.168.43.56/termux-root-packages-21 root stable
+#deb [trusted=yes] http://192.168.43.56/science-packages-21 science stable
+#deb [trusted=yes] http://192.168.43.56/unstable-packages-21 unstable stable
