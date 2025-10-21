@@ -32,7 +32,7 @@ Ela combina **bash + Python + AIML** para criar uma IA leve, funcional e totalme
 
 ```bash
 pkg update && pkg upgrade -y
-pkg install python git curl jq espeak termux-api -y
+pkg install bc jq curl git nmap wget python espeak libxml2 libxslt termux-api -y
 ```
 
 Clone o repositório e instale:
@@ -47,7 +47,7 @@ chmod +x *.sh
 Instale as bibliotecas Python necessárias:
 
 ```bash
-pip install aiml requests gtts
+pip install BeautifulSoup4 requests lxml python-aiml
 ```
 
 ---
